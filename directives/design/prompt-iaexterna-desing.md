@@ -1,0 +1,11 @@
+"Atue como Especialista Sênior em UI/UX e Engenheiro Front-End (Clean Code & Mobile-First).
+Estou anexando meu arquivo 'ideia-design.md' (ou 'ideia_projeto.md') com a especificação inicial do sistema web 'AgroTech Sudoeste' — uma plataforma de inteligência de compras para supermercados que integra um painel de cotações de commodities B3/CEPEA ao vivo (Soja, Milho, Boi Gordo, Café e Leite), agentes de decisão e leitura massiva de planilhas (+4 milhões de registros) em uma interface única.
+
+Por favor, reescreva e expanda este arquivo, gerando uma especificação técnica detalhada de UI/UX contendo:
+- Paleta exata de cores em formato Hexadecimal e Tokens Tailwind (Estritamente Light Mode, clean e moderna: fundos em branco puro e cinza-gelo suave #F8FAFC, textos de alto contraste em #0F172A, detalhes analíticos em azul #2563EB, alertas de quarentena/Self-Annealing em âmbar #D97706 e confirmações de carregamento efetivo/oportunidade de compra em verde esmeralda #059669).
+- Tipografia, tamanhos, pesos e hierarquia visual das fontes (incluindo obrigatoriamente fontes monoespaçadas com 'tabular-nums' para evitar trepidação visual durante a contagem rápida dos +4 milhões de registros e variações da B3/CEPEA).
+- Estrutura de HTML5 semântico / Componentes de Interface Única com os seletores de classe e ID essenciais (ex: #tickerCommodities, #dropzonePlanilhas, #listaArquivosImportados, #contadorRegistros4M, #barraProgressoBruto, #barraCarregamentoEfetivo, #matrizDecisaoCompras, #agenteCopilot).
+- Estilo CSS3 / Tailwind moderno (Light Mode clean, micro-interações suaves em hover nos cards de commodities, barra de progresso dupla animada em tempo real, badges de recomendação de compra e visual corporativo fluido e leve).
+- Garantia de suporte a layout responsivo e escalável (Arquitetura Mobile-First com CSS Grid / Bento Box e Flexbox para smartphones de compradores em loja, tablets e monitores widescreen do setor de compras, além de virtualização de tabelas massivas).
+
+Retorne apenas o conteúdo formatado em Markdown pronto para eu gravar no meu arquivo 'directives/design/design.md'."
